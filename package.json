@@ -1,0 +1,25 @@
+{
+  "name": "typescript-learning",
+  "version": "1.0.0",
+  "description": "This repository documents my journey learning TypeScript through practice, coding exercises, and projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosemareenjeri96-alt/typescript-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rosemareenjeri96-alt/typescript-learning/issues"
+  },
+  "homepage": "https://github.com/rosemareenjeri96-alt/typescript-learning#readme",
+  "devDependencies": {
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
